@@ -206,9 +206,9 @@ body {
 
 @font-face {
   font-family: 'Codec-Cold-Trial-Bold';
-    src:  url('../other/Codec-Cold-Trial-Bold.ttf.woff') format('woff'),
-    url('../other/Codec-Cold-Trial-Bold.ttf.svg') format('svg'),
-    url('../other/Codec-Cold-Trial-Bold.ttf.eot');
+    src:  url('../other/fonts/Codec-Cold-Trial-Bold.ttf.woff') format('woff'),
+    url('../other/fonts/Codec-Cold-Trial-Bold.ttf.svg') format('svg'),
+    url('../other/fonts/Codec-Cold-Trial-Bold.ttf.eot');
     font-weight: normal;
     font-style: normal;
 }
